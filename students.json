@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "sameer",
+    "course": "MERN Stack",
+    "email": "tripathisam2204@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "kamal",
+    "email": "abcd@gmail.com",
+    "course": "DSA"
+  }
+]
